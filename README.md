@@ -1,5 +1,5 @@
 # Track-Manager
-An Front End Database Application for visualizing Track and Field progress. The user has the option to insert Athletes and their respective times for different events. With this information the user can create different graphs to visualize progress over time. 
+A front end database application for storing and visualizing progress in the sport of Track and Field. The user has the option to insert Athletes and their respective times for different events. With this information the user can create different graphs to visualize progress over time. 
 
 # QT
 I reccomend QMake Version 3.1 and QT Version 6.4.2 as that is what I used to create this little project.
